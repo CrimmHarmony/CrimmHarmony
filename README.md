@@ -19,3 +19,8 @@
   ⟡ Thanks for visiting my profile! Have a nice day! ⟡ <br />
   &copy; 2025 CrimmHarmony
 </div>
+
+<br></br> 
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCrimmHarmony%2FCrimmHarmony"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCrimmHarmony%2FCrimmHarmony&label=Visitors&labelColor=%234c365c&countColor=%23957faa" /></a>
+</div>
