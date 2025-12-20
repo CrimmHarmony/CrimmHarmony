@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⟡ WELCOME TO MY PAGE ⟡</h1>
   <b>Pony/Furry Artist | 24 | Freelancer</b>
-  <p align="center">For commission information and art examples ⟶ <a href=https://crimmharmony.carrd.co/ target="_blank" rel="noopener noreferrer">Click Here!</a>
+  <p align="center">For commission information and art examples ⟶ <a href=https://crimmharmony.art/ target="_blank" rel="noopener noreferrer">Click Here!</a>
   <p align="center"><img src="./CCrimmNEWCM.png" width="100"/></p>
   <p align="center">Pony Town Players got me straight Gitmaxxing it for fun</p>
   <br> </br>
